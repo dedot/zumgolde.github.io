@@ -1,5 +1,9 @@
 # This is the data for my blog
 
+This jekyll theme is forked and was originally written by [Tom Preston-Werner](http://github.com/mojombo/jekyll). In the following his notes on his repo. 
+
+---
+
 It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll)
 into a static site whenever I push this repository to GitHub.
 
@@ -21,3 +25,7 @@ You may not reuse anything therein without my permission:
 All other directories and files are MIT Licensed. Feel free to use the HTML and
 CSS as you please. If you do use them, a link back to
 http://github.com/mojombo/jekyll would be appreciated, but is not required.
+
+---
+
+Same for me (and this fork at zumgolde/zumgolde.github.io). Thank you! 
